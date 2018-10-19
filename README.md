@@ -1,2 +1,1 @@
-# boxuancui.github.io
-My GitHub Pages
+[DataExplorer](http://boxuancui.github.io/DataExplorer/)
